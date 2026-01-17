@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gcm-encryp-decrypt/static/css/main.06d9721d.css",
+    "main.js": "/gcm-encryp-decrypt/static/js/main.17484929.js",
+    "index.html": "/gcm-encryp-decrypt/index.html",
+    "main.06d9721d.css.map": "/gcm-encryp-decrypt/static/css/main.06d9721d.css.map",
+    "main.17484929.js.map": "/gcm-encryp-decrypt/static/js/main.17484929.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06d9721d.css",
+    "static/js/main.17484929.js"
+  ]
+}
